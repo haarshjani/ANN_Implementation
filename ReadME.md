@@ -2,7 +2,7 @@
 
 ### PowerPlant_Regression
 
-This project implements powerplant segment using **Artificial Neural Network - ANN** to predict Powerpant outputs. **PCA** is applied for dimensionality reduction.
+This project implements powerplant segment using **Artificial Neural Network - ANN** to predict Powerplant outputs. **PCA** is applied for dimensionality reduction.
 
 
 # DateFruit classicfication using Artificial Neural Network Classification
